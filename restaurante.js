@@ -3,7 +3,7 @@ const input =require("readline-sync");
 let login = "admin";
 let senha = "@admin";
 let listaProdutos = ["pizza","hamburguer","suco","batata frita","lasanha", "salada", "pudim", "refrigerante", "agua", "cafe"];
-let contraSenha = "1234";
+let contraSenha = "1235";
 // ----- Testando-------
 //console.log(listaProdutos);
 console.log("Digite Login");
